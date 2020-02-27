@@ -13,20 +13,20 @@ Will use 3 standard servos and 1 micro servo All of them are 180° servos The bo
 2/28: Finish project 
 
 ## Materials 
-*Color Sensor 
-*Electromagnet 
-*Metro M0 Express 
-*3 standard servos 
-*1 micro servo 
-*3.18 mm Acrylic 
-*9V Battery Pack 
-*RGB LED (color indicator) 
-*1 Red LED (power indicator) 
-*2 switches, 1 for power, 1 for mode 
-*4 potentiometers 
-*1 button 
-*Something ferromagnetic, like iron 
-*Wires
+* Color Sensor 
+* Electromagnet 
+* Metro M0 Express 
+* 3 standard servos 
+* 1 micro servo 
+* 3.18 mm Acrylic 
+* 9V Battery Pack 
+* RGB LED (color indicator) 
+* 1 Red LED (power indicator) 
+* 2 switches, 1 for power, 1 for mode 
+* 4 potentiometers 
+* 1 button 
+* Something ferromagnetic, like iron 
+* Wires
 
 ## Criteria and Constraints 
 Must be made with parts that can be found in the Sigma Lab, or easily acquired  
