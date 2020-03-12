@@ -3,7 +3,7 @@ Use a color sensor to sort, stack, and unstack boxes Have a mode where the arm c
 
 ## Design 
 Will use 3 standard servos and 1 micro servo All of them are 180° servos The boxes will start in holes on the base, in a circle The boxes will be laser cut acrylic and the magnets will be glued into place 4 potentiometers and 1 button are needed for the manual control mode The color sensor will be arranged next to the electromagnet, but not necessarily right up against it The base will rotate with a gear system, so the servo isn’t in the center of rotation The majority of the arm will be made from laser cut acrylic
-<br><img src="media/sketch.png" width="300">
+<br><img src="media/sketch.PNG" width="300">
 ## Schedule 
 12/5: Begin planning  
 12/6: Begin Solidworks design  
